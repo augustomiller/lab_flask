@@ -27,6 +27,8 @@ python -m venv venv
  . .\venv\Scripts\Activate.ps1    (powershell)
 Ctrl + Shift + P (Selecionar o interpretador do venv)
 
-### Para Executar o arquivo "requirements"
+### Executando o arquivo "requirements"
 pip install -r requirements.txt
 
+### Ligando o Projeto
+Run Python File -> app.py
