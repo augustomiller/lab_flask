@@ -14,16 +14,9 @@ O que é o Flask?
 
 O flask é um framework poderoso e leve para contruir aplicações web em Python. E um framework é um conjunto de ferramentas, bibliotecas e convenções que fornecem uma estrutura para desenvolver aplicações.
 
-Vantagens do Flask Framework:
-    - Simplicidade
-    - Escalabilidade
-    - Flexibilidade
+Vantagens do Flask Framework: Simplicidade, Escalabilidade e Flexibilidade
 
-Apps que utiliza o Flask:
-    - Pinterest
-    - Linkedin
-    - Netflix
-    - Uber
+Apps que utiliza o Flask: Pinterest, Linkedin, Netflix, Uber...
 
 
 ## Hands On
