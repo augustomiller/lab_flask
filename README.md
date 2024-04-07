@@ -4,11 +4,12 @@ Neste laboratório, pretendo conhecer e aprofundar nesse micro-framework incrív
 
 O projeto consiste em um CRUD para gerenciamento de tarefas. 
 
-[ ] Vamos criar endpoints para criar, atualizar, listar e deletar tarefas.
-[ ] Além disso, vamos aprender sobre APIs.
-[ ] API REST e como documentar.
-[ ] Testar nossas APIs.
-[ ] Criar testes automatizados para nossos endpoints usando o pytest.
+- [ ] Aprender sobre APIs.
+- [ ] Testar nossas APIs.
+- [ ] API REST
+- [ ] Swagger como documentação.
+- [ ] Vamos criar endpoints para criar, atualizar, listar e deletar tarefas.
+- [ ] Criar testes automatizados para nossos endpoints usando o pytest.
 
 O que é o Flask?
 
@@ -32,3 +33,7 @@ pip install -r requirements.txt
 
 ### Ligando o Projeto
 Run Python File -> app.py
+
+## Links
+https://developer.mozilla.org/pt-BR/docs/Web/Http/Methods
+https://editor.swagger.io/
