@@ -36,4 +36,9 @@ Run Python File -> app.py
 
 ## Links
 https://developer.mozilla.org/pt-BR/docs/Web/Http/Methods
+
 https://editor.swagger.io/
+
+https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
+
+
