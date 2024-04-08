@@ -2,18 +2,18 @@
  <h1>Lab Python com Flask 🌶️ </h1>
 </div>
 
-![pxf](https://github.com/rocketseat-education/python-modulo-3/assets/990877/fe48a8a2-441d-4e18-bfab-8312f32e1d65)
+![pxf](https://github.com/rocketseat-education/python-modulo-3/assets/990877/ff29754a-1631-40de-9005-4f549c2f4d1c)
 
 Neste laboratório, pretendo conhecer e aprofundar nesse micro-framework incrível, abordando o conceito de APIs, API REST, requisições, protocolo HTTP, métodos e como usar o Python e o Flask para construir aplicações funcionais. 
 
 O projeto consiste em um CRUD para gerenciamento de tarefas. 
 
-- [x] Aprender sobre APIs.
+- [x] API's
 - [x] API REST
-- [x] Swagger como documentação.
-- [x] Vamos criar endpoints para criar, atualizar, listar e deletar tarefas.
-- [x] Criar testes automatizados para nossos endpoints usando o pytest.
-- [x] Testar nossas APIs.
+- [x] Swagger como documentação
+- [x] CRUD - Criar os endpoints para criar, atualizar, listar e deletar tarefas
+- [x] Criar testes automatizados para nossos endpoints usando o pytest
+- [x] Testar nossas APIs
 
 O que é o Flask?
 
@@ -63,3 +63,13 @@ https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
 https://www.postman.com/explore
 
 
+## License
+
+<div align="center">
+  
+<p>This project is licensed under the MIT License. See the
+  <a href="https://mit-license.org/">
+    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License"></a> file for details.</p>
+<p>Made with&nbsp;💙 &nbsp;by Augusto Miller</p>
+  
+<div>
